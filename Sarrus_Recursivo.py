@@ -1,3 +1,5 @@
+#Dependiendo del numero de "n" que haya, puede ser un 
+#Algoritmo recursivo o iterativo
 def sarrus_recursive(matrix):
     """
     Calcula el determinante de una matriz 3x3 de forma recursiva (expansión por cofactores).
